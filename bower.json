@@ -1,0 +1,17 @@
+{
+  "name": "Yii App",
+  "version": "2.0.0",
+  "description": "Yii boilerplate app with Bootstrap 2 and 3 themes,plus bootswatch color skins.",
+    "author": "Spiros Kabasakalis",
+    "homepage": "http://iws.kabasakalis.gr/",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:drumaddict/YiiApp.git"
+    },
+  "dependencies": {
+    "jquery": ">= 2.0.3",
+    "bootstrap":">=3.0.0",
+    "underscore" :">=1.5.2",
+    "bootswatch" :"3.0.0"
+  }
+}

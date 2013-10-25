@@ -1,0 +1,6 @@
+﻿# Git Ignore for YiiApp Project Spiros Kabasakalis.@2013
+.idea
+logs/*
+start_repo.bat
+push.bat
+backup.bat
