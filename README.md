@@ -43,6 +43,9 @@ Yii Project Template with Bootstrap layouts and Bootswatch color skins.
 - Available values for ```bootswatch3_skin```: none (default bootstrap colors),amelia,cerulean,cosmo,cyborg,flatly,journal,readable,simplex,slate,spacelab,united.
 - In ```config\main.php```,in params array,set ```'render_switch_form'=>true``` if you want to render a form for changing layouts and skins.(For Bootstrap v3.0.0 only).
 
+## LICENSE
+YiiApp is released under the [WTFPL](http://sam.zoy.org/wtfpl/) license.This means that you can literally do whatever you want with this software.
+
 ## RESOURCES
 
 - [Bootstrap](http://getbootstrap.com/)
